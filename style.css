@@ -60,20 +60,10 @@ body{
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--sublinhado);
 }
-@media screen and (min-width: 768px) {
-   .botoes{
-    display: flex;}
-    .botao:first-child {
-        border-radius: 40px 0 0 0;
-    }
-    .botao:last-child {
-        border-radius: 0 40px 0 0;
-    }
-    
-   }
 
 
-   .abas-textos{
+
+.abas-textos{
     background-color: var(--cor-de-fundo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
@@ -101,3 +91,17 @@ body{
     font-size: 20px;
     text-align: center;
 }
+
+
+@media screen and (min-width: 768px) {
+   .botoes{
+    display: flex;}
+    .botao:first-child {
+        border-radius: 40px 0 0 0;
+    }
+    .botao:last-child {
+        border-radius: 0 40px 0 0;
+    }
+    
+   }
+
