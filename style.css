@@ -1,5 +1,5 @@
 :root{
-    --cor-de-fundo:#910e91;
+    --cor-de-fundo:#72d105;
     --botao-inativo: #b0fd4b;
     --botao-ativo :#72d105;
     --branco:#ffffff;
@@ -7,7 +7,7 @@
     --sublinhado:#f85cb7;
 }
 body{
-    background-color: rgb(168, 255, 6);
+    background-color: rgb(155, 11, 184);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif; 
 }
