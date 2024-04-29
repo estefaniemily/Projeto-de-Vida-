@@ -1,13 +1,13 @@
 :root{
-    --cor-de-fundo:#57fd0a;
-    --botao-inativo: #b0fd4b;
-    --botao-ativo :#72d105;
+    --cor-de-fundo:#479722;
+    --botao-inativo: #72c407;
+    --botao-ativo :#85f702;
     --branco:#ffffff;
     --cor-letra: #ecedf3;
     --sublinhado:#f85cb7;
 }
 body{
-    background-color: rgb(155, 11, 184);
+    background-color: rgb(90, 7, 107);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif; 
 }
